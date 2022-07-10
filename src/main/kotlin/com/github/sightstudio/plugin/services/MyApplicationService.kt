@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sightstudio.plugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sightstudio.plugin.MyBundle
 
 class MyApplicationService {
 
